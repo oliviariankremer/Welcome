@@ -18,9 +18,9 @@ In my current role as a Healthcare Reimbursement Associate at a top 20 CPA firm,
 ## 📊 Featured Projects  
 Here are some of the projects that best represent my analytical skills and interests:
 
-### 📁 **(1) Project Name – Insight/Outcome**
-*A short one-sentence description of what the project shows or solves.*  
-➡️ **Skills:** SQL / Excel / Power BI / R  
+### 📁 **(1) The Correlation Between Mental Health & Burnout in the Workplace**
+*This project analyzes workplace mental-health survey data to identify patterns in burnout, stress, and support across roles, genders, and organizational factors.*  
+➡️ **Skills:** R  
 ➡️ **Link:** *Add link here*
 
 ### 📁 **(2) Project Name – Insight/Outcome**
